@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Welcome to my website</h1>
+<p><a href="file:///C:/Users/0623014424/OneDrive%20-%20Broward%20County%20Public%20Schools/My%20Portfolio/Welcome%20to%20my%20website/aboutme/aboutme.html"><img src="erik.jpg" alt="Erik"/></a></p>
+<p><a href="file:///C:/Users/0623014424/OneDrive%20-%20Broward%20County%20Public%20Schools/My%20Portfolio/Welcome%20to%20my%20website/aboutme/myhobbies.html">My Hobbies</a></p>
+
+</body>
+</html>

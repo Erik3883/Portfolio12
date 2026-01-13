@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My Hobbies</h1>
+<p>My favorite hobbies include playing and video games. I love playing sports such as soccer, basketball, and football. I also love kickboxing and jiu-jitsu. I also barely watch the UFC even though I enjoy it a lot.</p>
+<p><img src="soccer.jpg" alt="soccer"></p>
+<p><img src="ufc.jpg" alt="ufc"></p>
+<a href="file:///C:/Users/0623014424/OneDrive%20-%20Broward%20County%20Public%20Schools/My%20Portfolio/Welcome%20to%20my%20website/aboutme/homepage.html">Homepage</a>
+
+</body>
+</html>

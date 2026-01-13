@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: yellow;}
+h1   {color: blue;}
+p    {color: blue;}
+</style>
+</head>
+<body>
+<h1>Additional Details</h1>
+<p>We have a factory that manufactures our products, such as backpacks, pencils, erasers and other essential items for kids going to school. Our factory is located in Florida. We are making 60% profits.</p>
+<p>We plan to expand the locations our products are at to many more retail stores.</p>
+<img src="factory.jpg" alt="Manufacturing factory">
+<img src="factory1.jpg" alt="Internal factory">
+<img src="school.jpg" alt="Back to school products">
+<p><a href="file:///C:/Users/0623014424/OneDrive%20-%20Broward%20County%20Public%20Schools/My%20Portfolio/Profession/profession.html">Home Page</a></p>
+<p><a href="file:///C:/Users/0623014424/OneDrive%20-%20Broward%20County%20Public%20Schools/My%20Portfolio/Profession/page1.html">Page 1</a></p>
+</body>
+</html>
